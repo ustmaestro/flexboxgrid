@@ -1,17 +1,18 @@
 {
-  "name": "ustmaestro/flexboxgrid",
-  "version": "6.3.1",
-  "license": "Apache 2",
-  "homepage": "https://github.com/ustmaestro/flexboxgrid",
-  "authors": [
-    "@dam"
-  ],
-  "description": "This a fork of https://github.com/kristoferjoseph/flexboxgrid. Css grid system based on the flex display property.",
-  "keywords": [ 
-      "browser", 
-      "flexbox", 
-      "grid",
-      "css"
-  ],
-  "license": "Apache 2"
+    "name": "ustmaestro/flexboxgrid",
+    "description": "This a fork of kristoferjoseph/flexboxgrid. Css grid system based on the flex display property.",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Kristofer Joseph",
+            "email": "kristoferjoseph@gmail.com"
+        },
+        {
+            "name": "Ustmaestro",
+            "email": "ustmaestro@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
