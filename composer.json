@@ -13,6 +13,5 @@
             "email": "ustmaestro@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
